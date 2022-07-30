@@ -35,7 +35,7 @@ Open all 4 input FASTQ files, read each line by line.
                     increment unmatched counter```
 print out matched counter, unmatched counter, unknown counter
 
-
+Everything looks pretty good here, I might just suggest checking both indexes simultainiously: if index 1 and rc index 2 in indexes...
 
 High level functions:
 
